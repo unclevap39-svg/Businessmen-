@@ -1,20 +1,19 @@
-# Ordres en cours — émis le 2026-11-02
+# Ordres en cours — émis le 2026-11-02 (v2)
 
-## Ordre 1 — Me donner les infos qui me manquent (aujourd'hui)
-Réponds à ces 4 questions :
-1. Dans quelle ville / quel secteur tu peux te déplacer ?
-2. Combien d'heures par semaine tu peux donner à l'entreprise ?
-3. Es-tu prêt à appeler et à rencontrer des commerçants ? (c'est la clé du plan)
-4. As-tu déjà un statut (salarié, chômage, étudiant, déjà auto-entrepreneur) ?
+Tu ne fais que cliquer. Voici les 4 clics dont j'ai besoin, dans l'ordre. Rien d'autre.
 
-## Ordre 2 — Repérage : 20 commerces sans site (cette semaine)
-Sur Google Maps, autour de chez toi : plombiers, électriciens, coiffeurs, boulangers, garages, restaurants, paysagistes…
-Pour chacun, note dans un message : **nom, métier, ville, téléphone, note Google et nombre d'avis, a un site ? (non / cassé)**.
-Garde ceux qui ont de bons avis mais pas de site : ce sont les meilleurs prospects.
+## Clic 1 — Me dire ta situation (1 message)
+Salarié / chômage / étudiant / déjà auto-entrepreneur ? Et ta ville (uniquement pour que le statut soit déclaré au bon endroit, je ne t'enverrai nulle part).
 
-## Ordre 3 — Rien d'autre
-Pas d'immatriculation, pas de dépense, pas d'achat de domaine avant mon feu vert. On valide d'abord qu'il y a des clients.
+## Clic 2 — Créer la micro-entreprise (gratuit, ~20 min)
+Sur **procedures.inpi.fr** uniquement. Activité : « création de sites internet et services numériques ». Je te donnerai chaque réponse à cocher, écran par écran, dès que tu as fait le Clic 1.
 
-## Ce que fait le PDG à la prochaine session
-- Construire 3 maquettes pour les 3 meilleurs prospects de ta liste.
-- T'écrire le script exact pour présenter la maquette (téléphone et en personne).
+## Clic 3 — Créer le compte Stripe (gratuit)
+stripe.com → avec le numéro SIRET reçu au Clic 2. Il te demandera une pièce d'identité et un IBAN. C'est là que les clients paieront.
+
+## Clic 4 — Vérifier que je peux envoyer des emails
+Dis-moi si je peux utiliser ta boîte Gmail connectée pour la prospection, ou si tu préfères que je crée les emails et que tu cliques « envoyer ».
+
+## Ce que fait le PDG dès maintenant, sans attendre
+- Construire les 5 premiers sites pour 5 prospects trouvés par moi.
+- Rédiger les emails de vente, le profil Fiverr/Malt et les offres.

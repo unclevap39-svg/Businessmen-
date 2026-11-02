@@ -16,3 +16,8 @@
 ## D-004 — 2026-11-02 — Statut : micro-entreprise au nom de l'opérateur
 - **Pourquoi :** immatriculation gratuite sur le guichet unique INPI, comptabilité simple.
 - **Attention :** n'utiliser QUE procedures.inpi.fr (les sites payants ne sont pas officiels).
+
+## D-005 — 2026-11-02 — Pivot : zéro humain dans la vente
+- **Contexte :** l'opérateur ne démarche pas, n'appelle pas, ne se déplace pas. Il clique uniquement.
+- **Choix :** vente 100 % par email avec site déjà construit + plateformes freelance (Fiverr/Malt/Upwork) où les clients viennent d'eux-mêmes. D-001 à D-004 restent valables, les ordres v1 sont annulés.
+- **Critère d'échec :** 60 emails avec site livré, 0 vente.
